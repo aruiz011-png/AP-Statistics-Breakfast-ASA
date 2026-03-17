@@ -11,7 +11,7 @@ breakfast_days = [
 0,5,0,5,5
 ]
 
-# Replace with your actual GPA values (50 values)
+# Replace with your actual GPA values (55 values)
 gpa = [
 3.9, 4.069, 3.1, 4.04, 5.23,
 5.057, 5.03, 5.139, 4.33, 4.33,
