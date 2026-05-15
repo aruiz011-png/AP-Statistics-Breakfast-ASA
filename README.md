@@ -15,3 +15,5 @@ To run the program:
 pip install numpy matplotlib scipy
 
 python breakfast_statistics.py
+
+View Hand Calculations PDF = appendix_hand_calculations.pdf
